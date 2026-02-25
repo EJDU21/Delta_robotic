@@ -33,14 +33,12 @@ It allows you to develop in an isolated environment, outside of the core Isaac L
         (in the `scripts/list_envs.py` file) so that it can be listed.
 
         ```bash
-        # use 'FULL_PATH_TO_isaaclab.sh|bat -p' instead of 'python' if Isaac Lab is not installed in Python venv or conda
         python scripts/list_envs.py
         ```
 
     - Running a task:
 
         ```bash
-        # use 'FULL_PATH_TO_isaaclab.sh|bat -p' instead of 'python' if Isaac Lab is not installed in Python venv or conda
         ./docker/container.py start
         ./docker/container.py enter base
         cd /workspace/isaaclab/source/Delta_robotic
