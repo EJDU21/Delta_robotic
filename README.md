@@ -17,7 +17,7 @@ It allows you to develop in an isolated environment, outside of the core Isaac L
 - Install Isaac Lab by following the [installation guide](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html).
   We recommend using the docker installation.
 
-- Clone or copy this project/repository separately from the Isaac Lab installation (/IsaacLab/source/Delta_robotic):
+- Clone or copy this project/repository separately to this path (/IsaacLab/source/Delta_robotic):
 
 - Using a python interpreter that has Isaac Lab installed, install the library in editable mode using:
 
